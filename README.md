@@ -1,7 +1,9 @@
 # 📊 Aadhaar Enrollment Analytics Dashboard
 **A comprehensive, interactive analytics platform for visualizing and analyzing Aadhaar enrollment data across India**
 
-![image_alt]("https://i.pinimg.com/736x/3d/d5/4b/3dd54b611c51941a4123a4aebb8ccaa9.jpg")
+
+![image_alt](https://github.com/parthgiht/India-Digital-Identity-Analytics/blob/main/Aadhaar.jpeg?raw=true)
+
 
 ---
 
