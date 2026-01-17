@@ -845,9 +845,10 @@ st.markdown(
         💼 Data Analysis | 📈 Visualization | 🔍 Business Intelligence
     </p>
     <p style='color: #666666; font-size: 12px; margin-top: 12px;'>
-        © 2025 All Rights Reserved
+        © 2026 All Rights Reserved
     </p>
 </div>
 """,
     unsafe_allow_html=True
+
 )
