@@ -136,7 +136,7 @@ with col_img:
 
 
 with col_title:
-    st.title("📊 Aadhaar Enrollment Analytics Dashboard")
+    st.title("Aadhaar Enrollment Analytics Dashboard")
     st.markdown("**Comprehensive analysis of aadhaar enrollment data across india**")
 st.markdown("---")
 
@@ -339,7 +339,7 @@ st.markdown("---")
 
 
 # ------------- Geographical Analysis -----------
-st.header("🗺️ Geographic Analysis")
+st.header("🌎 Geographic Analysis")
 
 tab1, tab2, tab3 = st.tabs(["Interactive India Map", "State-wise Analysis", "District-wise Analysis"])
 
@@ -839,7 +839,7 @@ st.markdown(
     """
 <div style='text-align: center; padding: 25px; margin-top: 20px;'>
     <p style='color: #333333; font-size: 15px; margin: 8px 0;'>
-        <strong>📊 Created & Developed by:</strong> Parth Patel
+        <strong>👨🏻‍💼 Created & Developed by:</strong> Parth Patel
     </p>
     <p style='color: #555555; font-size: 14px; margin: 5px 0;'>
         💼 Data Analysis | 📈 Visualization | 🔍 Business Intelligence
@@ -852,3 +852,4 @@ st.markdown(
     unsafe_allow_html=True
 
 )
+
